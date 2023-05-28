@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Me Ajude A Melhorar O Pojeto.</h2>
+<h2 align="left">Me Ajude A Melhorar O Projeto.</h2>
 
 ###
 
